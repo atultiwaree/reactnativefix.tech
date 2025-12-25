@@ -71,7 +71,7 @@ If your React Native app is facing any of the issues above, I can help:
 
 🌐 https://reactnativefix.tech  
 ✉️ atul@reactnativefix.tech  
-📱 WhatsApp: +91 **(add your number)**
+📱 WhatsApp: +91 **7408407403**
 
 Quick fixes available — I usually respond within hours.
 
