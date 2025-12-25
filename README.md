@@ -70,7 +70,7 @@ This is not theoretical — it’s applied to *actual production apps*.
 If your React Native app is facing any of the issues above, I can help:
 
 🌐 https://reactnativefix.tech  
-✉️ atul@reactnativefix.tech  
+✉️ tiwareeatul669@gmail.com
 📱 WhatsApp: +91 **7408407403**
 
 Quick fixes available — I usually respond within hours.
